@@ -7,7 +7,7 @@ module.exports = {
            variables
        ✦ ──────────── ✦ 
     */
-    /* token required == */ token: "MTQ5MDk5NTg0NjYyNjU0NTY3NA.Gpmni2.LekklIBjO0deb5SwaQWwzfdJITZrV1YgcIBXBc",
+    /* token required == */ token: "",
     /* prefix required == */ prefix: ",",
     /* owner(s) == */ owners: ['837940598287237161'],
     /* typing delay(1000=1) == */ delay: 0,
